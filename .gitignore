@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+*.sass-cache
+_site
+env/
+codekit-config.json
