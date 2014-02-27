@@ -1,6 +1,4 @@
-**ANNOUNCEMENT**  
-
-**fork and continuuing development of of mjsarfatti/nestedSortable/tree/2.0alpha**
+**fork of FinalAngel/nestedSortable of mjsarfatti/nestedSortable/tree/2.0alpha**
 
 # nestedSortable jQuery plugin
 
