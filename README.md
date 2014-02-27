@@ -159,8 +159,3 @@ Tested with: Firefox, Chrome
 
 This work is licensed under the MIT License.  
 Which means you can do pretty much whatever you want with it.
-
-Nonetheless if this plugin saved you money, saved you time or saved your life please take a moment to think about the work I've been doing for you and consider sharing a bit of your joy with me. Your donation, however small, will be greatly appreciated.  
-Thank you.
-
-[Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=RSJEW3N9PRMYY&lc=IT&item_name=Manuele%20Sarfatti&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
